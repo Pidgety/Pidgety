@@ -7,7 +7,7 @@ enjoyed problem-solving and find myself fully absorbed by the challenges
 involved in programming.
 
 I'm nearing the end a 16-week Software Engineering bootcamp, with a focus on
-Python, and my repos include some of the larger projects I have completed as
+Python, and my repositories include some of the projects I have completed as
 part of this.
 
 
