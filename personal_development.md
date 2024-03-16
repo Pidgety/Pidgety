@@ -14,4 +14,6 @@
 
 [Exercism - public profile](https://exercism.org/profiles/Pidgety)
 
+### **Books:** ###
 
+Henney, K., ed. 2010. **_97 Things Every Programmer Should Know_**. Sebastopol: O'Reilly Media.
