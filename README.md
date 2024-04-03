@@ -6,8 +6,8 @@ or developer, transferring from a career in education management.  I've always
 enjoyed problem-solving and find myself fully absorbed by the challenges 
 involved in programming.
 
-I'm nearing the end a 16-week Software Engineering bootcamp, with a focus on
-Python, and my repositories include some of the projects I have completed as
+I have recently finished a 16-week Software Engineering bootcamp, with a focus on
+Python, and my repositories include some of the projects I completed as
 part of this.
 
 
@@ -27,17 +27,19 @@ In addition to the bootcamp, I am in the process of:
   additional Udemy courses, reading books on Python and participating in
   HackerRank and Exercism challenges.
 
-* addressing gaps in my Computer Science knowledge by taking a Udemy course
+* addressing gaps in my Computer Science knowledge by taking Udemy courses
   on data structures and algorithms, and reading Hands On Data Structures
   and Algorithms with Python (Argawal, 2018, Packt).
 
 * broadening my awareness of other languages, systems and frameworks by taking
   Udemy courses on:
 
-  * Git and GitHub (completed)
-  * MySQL (in progress)
   * HTML, CSS & JavaScript (in progress)
+  * Django (in progress)
+  * Git and GitHub (completed)
+  * MySQL (completed)
 
+Please see personal_development.md for further details.
 
 <!--
 **Pidgety/Pidgety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
