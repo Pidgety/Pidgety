@@ -18,4 +18,6 @@
 
 ### **Books:** ###
 
-Henney, K., ed. 2010. **_97 Things Every Programmer Should Know_**. Sebastopol: O'Reilly Media.
+Henney, K., ed. 2010. **_97 Things Every Programmer Should Know_**. O'Reilly Media.
+
+Hoover, D.H. & Oshineye, A. **_Apprenticeship Patterns - Guidance for the Aspiring Software Craftsman_**. O'Reilly Media.
